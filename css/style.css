@@ -10,6 +10,7 @@
 ======================================*/
 
 body {
+  font-family: 'yekan';
   background-color: #f5f5f5;
   color: #4e4e4e;
 }
@@ -1268,4 +1269,9 @@ footer .credits a {
   .back-to-top {
     bottom: 15px;
   }
+}
+
+@font-face {
+  font-family: 'yekan';
+  src: url('/css/Fonts/Yekan.ttf');
 }
